@@ -5,7 +5,7 @@ class Controls extends StatelessWidget {
   String numberToString;
 
   Function selectNumber;
-
+//lol comment
   Controls(int number) {
     this.number = number;
     String numberToString = number.toString();
